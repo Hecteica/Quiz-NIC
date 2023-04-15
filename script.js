@@ -291,8 +291,8 @@ let questions = [
         answer: 'Advierte de la proximidad de una zona de trabajo',
         options: [
           'Indica la presencia de personal en la plataforma de vía',
-          'Advierte de la proximidad de una zona de trabajo',
           'Obliga a seleccionar el modo de conducción',
+          'Advierte de la proximidad de una zona de trabajo',
           'Todas las anteriores'
         ]
       },
@@ -345,8 +345,8 @@ let questions = [
         question:"¿Qué tipo de cartel es el precautorio por la presencia de personal en la plataforma de vía?",
         answer: 'De advertencia de peligro',
         options: [
-          'De advertencia de peligro',
           'De información',
+          'De advertencia de peligro',
           'De prohibición',
           'De recomendación'
         ]
@@ -365,7 +365,7 @@ let questions = [
       {
         numb:34,
         question:"¿Qué tipo de cartel es el precautorio por la existencia de una zona de obras sin presencia de personal en la plataforma de vía?",
-        answer: '"SELECCIONAR A.T.P."',
+        answer: 'De advertencia de peligro',
         options: [
           'De circulación',
           'De información',
